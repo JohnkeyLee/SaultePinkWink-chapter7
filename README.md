@@ -1,9 +1,9 @@
 # SaultePinkWink
 This Repo contains what I learned from "the great teacher" 
 ### [PinkWink](https://github.com/PinkWink)
-## Title: ----
-The whole process is to learn _**the data processing and analysis**_
-<br/>**Task:** Data processing on the purpose and mapping in two different ways
+## Title: How to predict the future trends and analyze the future data, and how to feed the data to 'prophet'
+The whole process is to learn _**the data forecasting and analyzing**_
+<br/>**Task:** Learn how to do predict the data and how it works
 <br/>**Work environment:** 
 > python 3.9.5 (4/15/2023)
 <br/>pandas 1.5.3 
@@ -36,4 +36,8 @@ The below csv files and figures show you the results with the python code in thi
 ![image](https://user-images.githubusercontent.com/103592307/234325439-b4fcbf1a-bad2-4564-95f9-40268c1c1a2e.png)
 ![image](https://user-images.githubusercontent.com/103592307/234325472-d75be8ad-50b0-4805-96d8-b3cccb68c7d8.png)
 ***
-### 7-3 Data processing
+### 7-3: Logistic tutorial
+![image](https://user-images.githubusercontent.com/103592307/234329768-fdeb5e19-005e-4de4-bbd6-496037fe50fa.png)
+![image](https://user-images.githubusercontent.com/103592307/234329816-7686f20e-90a5-4155-a7ae-64329fd5e9ac.png)
+
+
