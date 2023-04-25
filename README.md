@@ -35,8 +35,5 @@ The below csv files and figures show you the results with the python code in thi
 ![image](https://user-images.githubusercontent.com/103592307/234325403-6241ae95-04aa-4548-9e8a-61eaf308e8e9.png)
 ![image](https://user-images.githubusercontent.com/103592307/234325439-b4fcbf1a-bad2-4564-95f9-40268c1c1a2e.png)
 ![image](https://user-images.githubusercontent.com/103592307/234325472-d75be8ad-50b0-4805-96d8-b3cccb68c7d8.png)
-
-
-
 ***
 ### 7-3 Data processing
